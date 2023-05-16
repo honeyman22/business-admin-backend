@@ -1,0 +1,14 @@
+{
+  "name": "business-admin",
+  "version": "1.0.0",
+  "description": "my personal bussiness admin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nishan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
